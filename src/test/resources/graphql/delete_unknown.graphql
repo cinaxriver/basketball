@@ -1,0 +1,5 @@
+mutation {
+    delete(id: 612) {
+        id
+    }
+}

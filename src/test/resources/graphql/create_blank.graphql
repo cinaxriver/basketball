@@ -1,0 +1,5 @@
+mutation {
+    create(input: {name: "", surname: "", position: C}) {
+        id, name, surname, position
+    }
+}
